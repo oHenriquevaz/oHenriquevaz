@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @oHenriquevaz
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning front edn dev
+- 💞️ I’m looking to collaborate on anything i might add value
+- 📫 You can reach me via emal on ohenriquevaz@gmail.com
+- See you there ! 👋
